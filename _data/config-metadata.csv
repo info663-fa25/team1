@@ -3,7 +3,7 @@ title,Title,,,DCTERMS.title,headline
 creator,Creator,,,DCTERMS.creator,creator
 subject,Subjects,true,,DCTERMS.subject,keywords
 description,Description,,,DCTERMS.description,description
-size,Size,,,DCTERMS:format,size
+size,Size,,,DCTERMS.format,size
 related_artwork,Related Artwork,DCTERMS:relation,
 source,Source,,,,
 type,Type,,,DCTERMS.type,
