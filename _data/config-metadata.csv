@@ -1,9 +1,9 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
 creator,Creator,,,DCTERMS.creator,creator
-subject,Subjects,true,,DCTERMS.subject,keywords
+subject,Subjects,TRUE,,DCTERMS.subject,keywords
 description,Description,,,DCTERMS.description,description
 size,Size,,,DCTERMS.format,size
-related_artwork,Related Artwork,DCTERMS:relation,
 source,Source,,,,
+related_artwork,Related Artwork,,,DCTERMS.relation,
 type,Type,,,DCTERMS.type,
