@@ -27,7 +27,7 @@ description: "CollectionBuilder-CSV is a template for creating digital collectio
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: renaissance; venice
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Shy Adelman, Micah Donovick, Will Tew, Natalie Zak
+author: Shy Adelman
 
 ##########
 # COLLECTION SETTINGS
