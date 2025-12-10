@@ -1,7 +1,7 @@
 objectid,parentid,title,creator,subject,size,related_artwork,source,description,object_location,type,display_template
 BB-0001,,Portrait of a Venetian Cencial,"Paolo Veronese (Italian, 1528-1588)",Armor in art; men (male humans); sword,199.5 x 119 cm (78 1/2 x 46 3/4 inches),,"Berenson, Bernard. 1894. The Venetian Painters of the Renaissance : With an Index to Their Works. 3rd ed. New York: G.P. Putnam’s Sons.","Purchased by Ted Field American media mogul, from Madame K.L., from Harry Primrose, 6th Earl of Rosebery, from William Douglas-Hamilton, 12th Duke of Hamilton Scottish nobleman [1845-1895]",,record,compound_object
-BB-0021,BB-0001,109644_1_45942227.jpg,,,,,,Wildenstein & Company,//objects/109644_1_45942227.jpg,Image,image
-BB-0041,BB-0001,109644_2_45942228.jpg,,,,,,,//objects/109644_2_45942228.jpg,Image,image
+BB-0021,BB-0001,109644_1_45942227.jpg,,,,,,Wildenstein & Company,/objects/109644_1_45942227.jpg,Image,image
+BB-0041,BB-0001,109644_2_45942228.jpg,,,,,,,/objects/109644_2_45942228.jpg,Image,image
 BB-0002,,Poet between Vice and Virtue,"Paolo Veronese (Italian, 1528-1588)","cherubs, i.e. children's heads with wings; men (male humans); ",152.4 x 114.3 cm (60 x 45 inches),,"Berenson, Bernard. 1894. The Venetian Painters of the Renaissance : With an Index to Their Works. 3rd ed. New York: G.P. Putnam’s Sons.",Purchased by Edith von zur Mühlen,,record,compound_object
 BB-0022,BB-0002,109659_1_45942255.jpg,,,,,,"Villa I Tatti – The Harvard University Center for Italian Renaissance Studies, Berenson Library, Photo Archive.",/objects/109659_1_45942255.jpg,Image,image
 BB-0042,BB-0002,109659_2_45942256.jpg,,,,,,,/objects/109659_2_45942256.jpg,Image,image
