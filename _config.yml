@@ -23,7 +23,7 @@ title: Attribution Needed | The Homeless Venetian Paintings Catalog
 tagline: Villa I Tatti
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: "This site describes item-level asset records for the Homeless Paintings of the Italian Renaissance collection created and managed by the I Tatti Photo Archive to support the discovery and accurate documentation of the records, as well as facilitate further research and provenance work. Originally assembled by Italian renaissance scholar Bernard Berenson as part of his effort to document and attribute works of art throughout Italy, our catalog aims to create future avenues for updated scholarship and for provenance researchers to build new connections across artworks, photographers, and collections."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: renaissance art; venice
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
