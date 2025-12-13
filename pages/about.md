@@ -23,6 +23,3 @@ padding: 6em
 This site compiles information about paintings with unknown whereabouts from research conducted at the the Harvard I Tatti Center for Italian Renaissance Studies.
 
 {% include feature/image.html objectid="bb-0040" width="75" %} 
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
