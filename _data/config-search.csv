@@ -1,6 +1,6 @@
 field,index,display
-title,TRUE,TRUE
-creator,TRUE,TRUE
-subject,TRUE,TRUE
-description,TRUE,TRUE
-source,TRUE,TRUE
+title,true,true
+creator,true,true
+subject,true,true
+description,true,true
+source,true,true
