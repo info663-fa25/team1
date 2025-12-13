@@ -20,6 +20,6 @@ padding: 6em
 
 ## About The Homeless Venetian Paintings at Harvard's I Tatti Villa
 
-This site compiles information about paintings with unknown whereabouts from research conducted at the the Harvard I Tatti Center for Italian Renaissance Studies.
+This site compiles information about paintings with unknown whereabouts based on photographs compiled at Harvard's I Tatti Center for Italian Renaissance Studies.
 
 {% include feature/image.html objectid="bb-0040" width="75" %} 
