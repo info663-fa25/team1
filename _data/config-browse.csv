@@ -1,8 +1,9 @@
 field,display_name,btn,hidden,sort_name,facet_name
 description,Provenance,,,,
-creator,Creator,TRUE,,,
-subject,Subject,TRUE,,,
-location,,TRUE,,,Location Depicted
-identifier,,,TRUE,Identifier,
+creator,Creator,true,,,
+subject,Subject,true,,,
+location,,true,,,Location Depicted
+identifier,,,true,Identifier,
 size,Size,,,,
+
 source,Bibliographic Reference,,,,
