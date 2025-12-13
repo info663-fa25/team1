@@ -1,9 +1,10 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
-title,Title,TRUE,,DCTERMS.title,headline
-creator,Creator,TRUE,,DCTERMS.creator,creator
-subject,Subjects,TRUE,,DCTERMS.subject,keywords
+title,Title,true,,DCTERMS.title,headline
+creator,Creator,true,,DCTERMS.creator,creator
+subject,Subjects,true,,DCTERMS.subject,keywords
 description,Description,,,DCTERMS.description,description
 size,Size,,,DCTERMS.format,size
 source,Source,,,,
-related_artwork,Related Artwork,,TRUE,DCTERMS.relation,
+related_artwork,Related Artwork,,true,DCTERMS.relation,
+
 type,Type,,,DCTERMS.type,
